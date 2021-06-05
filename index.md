@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+![Image](https://images.unsplash.com/photo-1619410283995-43d9134e7656?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
 
-You can use the [editor on GitHub](https://github.com/pablomluna/cit281-lab8/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Lab Goals:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Create lab file and initialize Node.js folder
 
-### Markdown
+## Lab Parts: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+- Install node-fetch package
+- Add fastify starter code
+- Add fastify and node-fetch require statements
+- Fetch JSONPlaceholder data
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Lab Deliverables
 
-**Bold** and _Italic_ and `Code` text
+1. lab-08.js
+2. package.json
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pablomluna/cit281-lab8/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+pmanriqu@uoregon.edu
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
